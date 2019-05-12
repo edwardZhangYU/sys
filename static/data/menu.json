@@ -1,0 +1,29 @@
+{
+    "menuObj":{
+        "menuList":[{
+            "index":"1",
+            "title":"表格页",
+            "icon":"el-icon-data-analysis",
+            "items":[
+              {
+                "index":"1-1",
+                "title":"表格",
+                "url":"/table"
+              }
+            ]
+          },
+          {
+            "index":"2",
+            "title":"表单页",
+            "icon":"el-icon-edit",
+            "items":[
+              {
+                "index":"2-1",
+                "title":"基础表单",
+                "url":"/baseForm"
+              }
+            ]
+          }],
+        "active":"1-1"
+    }
+}
