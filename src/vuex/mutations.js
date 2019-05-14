@@ -1,5 +1,3 @@
-import mutationType from './mutationType.js'
-
 export default {
     showAlertFunc(state,data){
         state.showAlertFlag = true
